@@ -1,0 +1,2 @@
+# WPonMSAz
+wordpress on azure
